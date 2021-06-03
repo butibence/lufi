@@ -1,0 +1,16 @@
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\bin\Debug\lufi.exe.config
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\bin\Debug\lufi.exe
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\bin\Debug\lufi.pdb
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.csproj.AssemblyReference.cache
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\MainWindow.g.cs
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\App.g.cs
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi_Content.g.cs
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi_MarkupCompile.cache
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi_MarkupCompile.lref
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\MainWindow.baml
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.g.resources
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.Properties.Resources.resources
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.csproj.GenerateResource.cache
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.csproj.CoreCompileInputs.cache
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.exe
+C:\Users\Buti Bence\Desktop\leggomb\lufi\lufi\obj\Debug\lufi.pdb
